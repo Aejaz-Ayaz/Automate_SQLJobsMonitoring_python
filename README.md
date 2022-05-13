@@ -10,4 +10,3 @@ pip install sqlalchemy
 pip install pyodbc        # Though this module is not imported in the code, but it has the dependency. Hence installation is mandatory.
 
 You can either run it manually or put the code file in Task Scheduler, to run it everyday on its own and output the results in a text file. 
-
